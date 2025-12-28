@@ -1,4 +1,7 @@
 don't forget create SQL on myPhpAdmin
+
+
+
 CREATE DATABASE IF NOT EXISTS inventory_db;
 USE inventory_db;
 
